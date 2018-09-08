@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TCKIN Pin=J1-5
+Removed Pin From Net: NetName=SWDIO Pin=J1-6
+Removed Pin From Net: NetName=TMSIN Pin=J1-7
+Removed Pin From Net: NetName=SWCLK Pin=J1-8
+Added Pin To Net: NetName=TMSIN Pin=J1-5
+Added Pin To Net: NetName=SWCLK Pin=J1-6
+Added Pin To Net: NetName=TCKIN Pin=J1-7
+Added Pin To Net: NetName=SWDIO Pin=J1-8
+Added Room: Name=MCU_SWD_Program

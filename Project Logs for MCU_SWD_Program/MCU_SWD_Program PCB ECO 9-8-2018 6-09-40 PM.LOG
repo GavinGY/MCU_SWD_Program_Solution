@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=R13-1
+Change Component Designator: OldDesignator=USB NewDesignator=J4
+Added Pin To Net: NetName=NRST Pin=C3-1
+Added Pin To Net: NetName=NRST Pin=R13-1
+Added Member To Class: ClassName=MCU_SWD_Program Member=Component J4 USB-B
+Added Room: Name=MCU_SWD_Program

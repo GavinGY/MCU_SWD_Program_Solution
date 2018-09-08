@@ -1,0 +1,15 @@
+Added Component: Designator=J4(USB-B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V5.0 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R9-1
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=R10-1
+Added Pin To Net: NetName=NetJ4_3 Pin=R11-1
+Added Net: Name=NetJ4_3
+Added Member To Class: ClassName=MCU_SWD_Program Member=Component J4 USB-B
+Added Room: Name=MCU_SWD_Program

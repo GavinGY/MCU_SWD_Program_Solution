@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HFXTAL_P Pin=C3-1
+Removed Pin From Net: NetName=HFXTAL_P Pin=R13-1
+Added Pin To Net: NetName=NRST Pin=C3-1
+Added Pin To Net: NetName=NRST Pin=R13-1
+Added Room: Name=MCU_SWD_Program

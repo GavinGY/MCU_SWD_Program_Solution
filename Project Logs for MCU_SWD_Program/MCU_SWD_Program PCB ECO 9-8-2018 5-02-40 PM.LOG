@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NRST Pin=C3-1
+Removed Pin From Net: NetName=NRST Pin=R13-1
+Removed Pin From Net: NetName=V5.0 Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Member From Class: ClassName=MCU_SWD_Program Member=USB1
+Added Component: Designator=J?(USB-B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=V5.0 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R9-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=R10-1
+Added Pin To Net: NetName=NetJ?_3 Pin=R11-1
+Added Net: Name=NetJ?_3
+Added Member To Class: ClassName=MCU_SWD_Program Member=Component J? USB-B
+Added Room: Name=MCU_SWD_Program
