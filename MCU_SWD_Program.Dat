@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~149|Field=Footprint~String~Footprint~117|Field=LibRef~String~LibRef~117|Field=Quantity~Integer~Quantity~117|Field=Value~String~Value~94|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MCU_SWD_Program.PrjPCB|ReportField=ProjectFullPath~D:\Work\AltiumDesigner\MCU_SWD_Program_Solution\MCU_SWD_Program.PrjPCB|ReportField=Title~Bill of Materials For Project [MCU_SWD_Program.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~17:43:09|ReportField=ReportDate~2018/9/9|ReportField=ReportDateTime~2018/9/9 17:43:09|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~42|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~3a2757af2a5b53018ae0560bb1296e02122eb986|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/9/9|ReportField=CurrentTime~17:43:01|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\AltiumDesigner\MCU_SWD_Program_Solution\MCU_SWD_Program.SchDoc|ReportField=DocumentName~MCU_SWD_Program.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/9/9|ReportField=Organization~|ReportField=ProjectName~MCU_SWD_Program.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MCU_SWD_Program.PrjPCB|ReportField=DataSourceFullPath~D:\Work\AltiumDesigner\MCU_SWD_Program_Solution\MCU_SWD_Program.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|LED|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1|D-0805|LED2|1|
+2||Resistor|R1, R2, R3, R4, R5, R9, R10|R0603|Res2|7|100
+3||Resistor|R6, R7, R11|r0603|Res2|3|1K
+4||Resistor|R8, R12, R13, R14|R0603|Res2|4|10K
+5||Polarized Capacitor (Surface Mount)|PC4, PC8|C1206|Cap Pol3|2|100uF
+6|SWD|Header, 4-Pin|ISP1|HDR1X4|Header 4|1|
+7|8MHz|Crystal Oscillator|Y1|XTAL-SMD2|XTAL|1|
+8||Capacitor|C1, C2, C5, C6, C7|C0603|Cap|5|22pF
+9||Capacitor|C13, C17|C0603|Cap|2|1uF
+10||Capacitor|C14|C0603|Cap|1|220nF
+11||Capacitor|C16|C0603|Cap|1|10uF
+12||Capacitor|C3, C11, C12|C0603|Cap|3|0.1uF
+13||Capacitor|C9, C10, C15|C0603|Cap|3|10pF
+14|AMS1117-3.3V||U3|SOT-223|AMS1117-3.3V|1|
+15|Header1X20||J2, J3|HDR2.54-1X20|Header1X20|2|
+16|Header2*4||J1|HDR2X4|Header2X4|1|
+17|STM32F103C8T6||U2|LQFP-48|STM32F103C8T6|1|
+18|TestBench_40pin||U1|DIP40|TestBench_40pin|1|
+19|USB-B||J4|USB-B|USB-B|1|
+20|XTL-P4||Y2|X3225|XTL-P4|1|
